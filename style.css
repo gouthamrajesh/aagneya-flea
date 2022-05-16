@@ -7,15 +7,11 @@ a:hover {
 @font-face {font-family: "Atland BB"; src: url("//db.onlinewebfonts.com/t/c84b5b87b5078891f799caed87c2237e.eot"); src: url("//db.onlinewebfonts.com/t/c84b5b87b5078891f799caed87c2237e.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/c84b5b87b5078891f799caed87c2237e.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/c84b5b87b5078891f799caed87c2237e.woff") format("woff"), url("//db.onlinewebfonts.com/t/c84b5b87b5078891f799caed87c2237e.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/c84b5b87b5078891f799caed87c2237e.svg#Atland BB") format("svg"); }
 h1
 {
-  font-size: 90px;
+  font-size: 97px;
 }
 .lead2
 {
   font-size: 50px;
-}
-.lead
-{
-  font-size: 40px;
 }
 .lead3
 {
@@ -52,6 +48,7 @@ h1
   text-shadow: none;
   background-color: #fff;
   border: .05rem solid #fff;
+  font-size: 32px;
 }
 
 html,
