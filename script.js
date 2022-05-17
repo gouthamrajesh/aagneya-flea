@@ -3,7 +3,7 @@ let width, height, cx, cy, wWidth, wHeight;
 const TMath = THREE.Math;
 
 let conf = {
-  color: 0xffffff,
+  color: 0xFFFF00,
   objectWidth: 12,
   objectThickness: 3,
   ambientColor: 0x808080,
