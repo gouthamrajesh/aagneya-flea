@@ -41,6 +41,11 @@ h1
 {
   color: crimson;
 }
+.bottom
+{
+  color: white;
+  font-size: 22px;
+}
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
